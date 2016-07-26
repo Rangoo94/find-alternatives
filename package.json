@@ -1,0 +1,18 @@
+{
+  "name": "find-alternatives",
+  "version": "1.0.0",
+  "description": "Find alternatives to specified keyword",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests yet.' && exit 1"
+  },
+  "keywords": [
+    "alternative",
+    "levenshtein"
+  ],
+  "author": "Dawid Rusnak <dawid@drcode.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-levenshtein": "^1.1.4"
+  }
+}

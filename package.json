@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo 'No tests yet.' && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Rangoo94/find-alternatives"
+  },
   "keywords": [
     "find",
     "alternative",
@@ -14,6 +18,10 @@
   ],
   "author": "Dawid Rusnak <dawid@drcode.pl>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rangoo94/find-alternatives/issues"
+  },
+  "homepage": "https://github.com/Rangoo94/find-alternatives",
   "dependencies": {
     "fast-levenshtein": "^1.1.4"
   }

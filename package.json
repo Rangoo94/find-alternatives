@@ -1,13 +1,15 @@
 {
   "name": "find-alternatives",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find alternatives to specified keyword",
   "main": "index.js",
   "scripts": {
     "test": "echo 'No tests yet.' && exit 1"
   },
   "keywords": [
+    "find",
     "alternative",
+    "alternatives",
     "levenshtein"
   ],
   "author": "Dawid Rusnak <dawid@drcode.pl>",
